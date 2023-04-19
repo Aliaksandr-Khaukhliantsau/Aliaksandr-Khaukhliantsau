@@ -17,9 +17,9 @@ I am considering vacancies for **Python developer, Data engineer, Big Data engin
 - An application with support for command-line arguments to search for the most rated movies, working on the basis of a distributed computing model in the HDFS file system. (PaySpark, SparkSQL, Spark DataFrame).
 
 ## Languages
-- Belarusian — Native
-- English — B1
-- Russian — C2
+- Belarusian — **Native**
+- English — **B1**
+- Russian — **C2**
 
 ## Further information
 I have successfully completed **the Big Data courses "Open Big Data School" from ISsoft**, where I studied various tools, approaches and methods of processing both structured and unstructured data in order to use them for specific tasks and goals.
