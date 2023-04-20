@@ -4,7 +4,7 @@
 I am considering vacancies for **Python developer, Data engineer, Big Data engineer, Junior/Trainee Web developer, Junior/Trainee developer**. I also consider job offers for **other vacancies** on various positions from a potential employer, as well as offers for **internships and courses**.
 
 ## My own projects
-***Links to the repository are provided at the request of the interviewer during the interview.***
+### ***Links to the repository are provided at the request of the interviewer during the interview.***
 - Translator for partial text translation. Application for learning English and replenishing the vocabulary with partial text translation and further reading. (Googletrans, Yandexfreetranslate, PySocks).
 - Phone book. (Django, Djangorestframework, Django-filter, Django-crispy-forms).
 - Telegram bot for the phone book. (PyTelegramBotAPI, Requests. Pandas).
