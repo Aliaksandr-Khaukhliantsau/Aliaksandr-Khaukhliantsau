@@ -23,6 +23,7 @@ I am considering vacancies for **Python developer, Data engineer, Big Data engin
 
 ## Further information
 I've successfully completed **the Big Data courses "Open Big Data School" from ISsoft**, where I studied various tools, approaches and methods of processing both structured and unstructured data in order to use them for specific tasks and goals.
+
 I've successfully graduated from **the courses "LeverX Group Training Center. LeverX Group, Intro to IT Course"**, where I completed the **course project "Development of an application for testing"** in JavaScript.
 The result of my development of this application: https://github.com/Aliaksandr-Khaukhliantsau/LeverXGroup/tree/main/IntroToITCourse/CourseProject
 
