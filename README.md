@@ -22,11 +22,11 @@ I am considering vacancies for **Python developer, Data engineer, Big Data engin
 - Russian — **C2**
 
 ## Further information
-I have successfully completed **the Big Data courses "Open Big Data School" from ISsoft**, where I studied various tools, approaches and methods of processing both structured and unstructured data in order to use them for specific tasks and goals.
-I successfully graduated from **the courses "LeverX Group Training Center. LeverX Group, Intro to IT Course"**, where I completed the **course project "Development of an application for testing"** in JavaScript.
+I've successfully completed **the Big Data courses "Open Big Data School" from ISsoft**, where I studied various tools, approaches and methods of processing both structured and unstructured data in order to use them for specific tasks and goals.
+I've successfully graduated from **the courses "LeverX Group Training Center. LeverX Group, Intro to IT Course"**, where I completed the **course project "Development of an application for testing"** in JavaScript.
 The result of my development of this application: https://github.com/Aliaksandr-Khaukhliantsau/LeverXGroup/tree/main/IntroToITCourse/CourseProject
 
-I have been actively studying **English and programming** for three years: object-oriented programming, Python, HDFS, Hadoop, Hadoop streaming, YARN, Apache Spark, Spark Core, Spark DataFrame API/SQL, RDD, MapReduce, Hive, Data Lifecycle, OLTP, OLAP, ETL, ELT, DDL, DML, Waterfall, Agile, ACID, Zeppelin, API, REST API, Django, Django REST framework, Templates, Views, Models, Validation, Flask, Python Requests, RegExp, pgAdmin, MySQL Workbench, SQL, NoSQL, SQLite, MySQL, PostgreSQL, HTML, CSS, Bootstrap, JavaScript, GIT, Docker, YAML, JSON, XML, PyCharm, IDEA, Sublime Text, Sublime Merge, GitHub Desktop, HTTP/HTTPS, Linux command line, etc.
+I've been actively studying **English and programming** for three years: object-oriented programming, Python, HDFS, Hadoop, Hadoop streaming, YARN, Apache Spark, Spark Core, Spark DataFrame API/SQL, RDD, MapReduce, Hive, Data Lifecycle, OLTP, OLAP, ETL, ELT, DDL, DML, Waterfall, Agile, ACID, Zeppelin, API, REST API, Django, Django REST framework, Templates, Views, Models, Validation, Flask, Python Requests, RegExp, pgAdmin, MySQL Workbench, SQL, NoSQL, SQLite, MySQL, PostgreSQL, HTML, CSS, Bootstrap, JavaScript, GIT, Docker, YAML, JSON, XML, PyCharm, IDEA, Sublime Text, Sublime Merge, GitHub Desktop, HTTP/HTTPS, Linux command line, etc.
 
 I take part in various online conferences.
 
@@ -77,8 +77,8 @@ I take part in various online conferences.
 
 ## Personal qualities
 - Friendliness and responsiveness. I’ve been a team member for 15 years.
-- Tactfulness and diplomacy. Daily I work and communicate with a lot of people.
-- Patience and independence. I work for a position that involves material and other responsibilities, as well as diligence and strategic patience.
+- Tactfulness and diplomacy. Daily I worked and communicated with a lot of people.
+- Patience and independence. I've worked in a position that involves material and other responsibilities, as well as diligence and strategic patience.
 - Analytical mindset. I analyze the information in order to foresee all possible risks, get to the root cause, study the problem from different sides and draw appropriate conclusions.
 
 ## A little more about yourself
